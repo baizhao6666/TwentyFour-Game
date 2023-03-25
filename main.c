@@ -143,6 +143,7 @@ int checkValid(char *input){
 }
 
 int main(int argc, char *argv[]) {
+  // add a comment
 
     srand(1);	// Initialize random number generator.
     // Only do this ONCE in your program!
